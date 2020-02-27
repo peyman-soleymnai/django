@@ -1,0 +1,15 @@
+db.sqlite3
+__pycache__/
+db.sqlite3
+media
+
+MANIFEST
+dist/
+docs/_build/
+docs/locale/
+node_modules/
+tests/coverage_html/
+tests/.coverage
+build/
+tests/report
+.idea/workspace.xml
